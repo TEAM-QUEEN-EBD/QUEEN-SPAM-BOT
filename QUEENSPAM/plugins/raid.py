@@ -36,7 +36,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in Queen:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @Queen_Spam_Bots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @QUEEN_SPAM_BOT ᴏᴡɴᴇʀ"
                 await e.reply(text)
             elif int(g) == OWNER_ID:
                 text = f"ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛꜱ"
@@ -59,7 +59,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in QUEENSPAM:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @Queen_Spam_Bots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @QUEEN_SPAM_BOT ᴏᴡɴᴇʀ"
                 await e.reply(text)
             elif int(g) == OWNER_ID:
                 text = f"ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛꜱ"
@@ -129,7 +129,7 @@ async def _(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in Queen:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @Queen_Spam_Bots ᴏᴡɴᴇʀ."
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @QUEEN_SPAM_BOT ᴏᴡɴᴇʀ."
                 await e.reply(text)
             elif int(user_id) == OWNER_ID:
                 text = f"ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛꜱ"            
@@ -150,7 +150,7 @@ async def _(e):
             user_idd = umser.id
             user_id = int(user_idd)
             if int(user_id) in QUEENSPAM:
-                text = f" ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @Queen_Spam_Bots ᴏᴡɴᴇʀ."
+                text = f" ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @QUEEN_SPAM_BOT ᴏᴡɴᴇʀ."
                 await e.reply(text)
             elif int(user_id) == OWNER_ID:
                 text = f"ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛꜱ"
@@ -233,7 +233,7 @@ async def _(event):
              a = await event.client.get_entity(user)
              e = a.id
              if int(e) in QUEENSPAM:
-                    text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @Queen_Spam_Bots ᴏᴡɴᴇʀ"
+                    text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @QUEEN_SPAM_BOT ᴏᴡɴᴇʀ"
                     await event.reply(text)
              elif int(e) == OWNER_ID:
                 text = f"ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛꜱ"
@@ -245,7 +245,7 @@ async def _(event):
                  c = a.first_name
                  username = f"[{c}](tg://user?id={e})"
                  counter = int(Queen[1])
-                 sleeptimet = sleeptimem = float(Deadly[0])
+                 sleeptimet = sleeptimem = float(queen[0])
                  for _ in range(counter):
                       reply = random.choice(RAID)
                       caption = f"{username} {reply}"
@@ -325,7 +325,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in QUEENSPAM:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @Queen_Spam_Bots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @QUEEN_SPAM_BOT ᴏᴡɴᴇʀ"
                 await e.reply(text)
             elif int(g) == OWNER_ID:
                 text = f"ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛꜱ"
