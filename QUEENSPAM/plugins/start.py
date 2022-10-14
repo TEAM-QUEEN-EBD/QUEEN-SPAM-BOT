@@ -5,16 +5,16 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from QUEENSPAM import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
 
-QUEEN_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/e2f9ebb8153b2e08ef433.jpg"
+QUEEN_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/09b3f55acf9ebff6fce2c.jpg"
 
 
 Queen_Button = [
         [
-        Button.url("°Cʜᴀɴɴᴇʟ°", "https://t.me/QUEEN_NETWORK"),
-        Button.url("°Sᴜᴘᴘᴏʀᴛ°", "https://t.me/QUEEN_SPAM_BOT")
+        Button.url("🥀Cʜᴀɴɴᴇʟ🥀", "https://t.me/QUEEN_NETWORK"),
+        Button.url("💔Sᴜᴘᴘᴏʀᴛ💔", "https://t.me/QUEEN_SPAM_BOT")
         ],
         [
-        Button.url(" °Rᴇᴘᴏ°", "https://github.com/MrProgrammer72/QUEEN-SPAM")
+        Button.url("✨Rᴇᴘᴏ✨", "https://t.me/QUEEN_SPAM_BOT")
         ]
         ]
         
@@ -41,11 +41,11 @@ async def start(e):
         creator = f"[𝗝𝝙𝗬🥀](tg://user?id={1864894033})"
         QUEEN_ON = f"""
 ʜᴇʏ 🖤 ʙᴀʙʏ  {mention} 🥀,
-ᴛʜɪs ɪs Qᴜᴇᴇɴ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
+ᴛʜɪs ɪs Qᴜᴇᴇɴ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- [Qᴜᴇᴇɴ ꜱᴘᴀᴍʙᴏᴛ!](https://t.me/QUEEN_NETWORK)
 ────────────────── 
-ᴛʜɪs ʙᴏᴛ ᴏᴡɴᴇʀ:- {myOwner}
-────────────────── 
-ᴄᴏᴅᴇ ᴄʀᴇᴀᴛᴏʀ:- {creator}
+➻ ᴛʜɪs ʙᴏᴛ ᴏᴡɴᴇʀ: {myOwner}
+➻ Qᴜᴇᴇɴ ꜱᴘᴀᴍ ᴏᴡɴᴇʀ: [ᴍᴀꜰɪᴀ ʀᴀᴊ🥀](https://t.me/MAFIA_RJ)
+➻ ᴄᴏᴅᴇ ᴄʀᴇᴀᴛᴏʀ: {creator}
 ────────────────── 
 ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴀᴄᴄᴇss sᴜᴘᴘᴏʀᴛ ,ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ʀᴇᴘᴏ!
     """
