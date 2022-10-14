@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from QUEENSPAM import CMD_HNDLR as hl
     
-HELP_PIC = "https://te.legra.ph/file/e2f9ebb8153b2e08ef433.jpg"
+HELP_PIC = "https://te.legra.ph/file/09b3f55acf9ebff6fce2c.jpg"
 
 QUEEN_Help = " ✨ 𝗤𝘂𝗲𝗲𝗻 𝗦𝗽𝗮𝗺 𝗕𝗼𝘁 🥀 \n\n"
  
@@ -21,11 +21,11 @@ QUEEN_Help += f" ➻ `!leave` - ᴛᴏ ʟᴇᴀᴠᴇ ᴘᴜʙʟɪᴄ/ᴘʀɪᴠ
  
 QUEEN_Help += f" ๏ ꜱᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅꜱ\n\n"
 
-QUEEN_Help += f" ➻ `!raid` - ᴛᴏ ʀᴀɪᴅ\n ➻ `!replyraid` - ᴛᴏ ᴀᴄᴛɪᴠᴇ ʀᴇᴘʟʏ ʀᴀɪᴅ\n ➻ `!queenraid` - ᴛᴏ ᴅᴇ-ᴀᴄᴛɪᴠᴇ ʀᴇᴘʟʏ ʀᴀɪᴅ\n ➻ `!spam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ ɴᴏʀᴍᴀʟ ꜱᴘᴀᴍ\n ➻ `!bigspam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ ʙɪɢ ꜱᴘᴀᴍ\n ➻ `!uspam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ ᴜɴʟɪᴍɪᴛᴇᴅ ꜱᴘᴀᴍ ᴜɴᴛɪʟ ʏᴏᴜ ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛꜱ!!\n ➻ `!queenspam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ Qᴜᴇᴇɴ ꜱᴘᴀᴍ\n\n"
+QUEEN_Help += f" ➻ `!raid` - ᴛᴏ ʀᴀɪᴅ\n ➻ `!replyraid` - ᴛᴏ ᴀᴄᴛɪᴠᴇ ʀᴇᴘʟʏ ʀᴀɪᴅ\n ➻ `!queenraid` - ᴛᴏ ᴅᴇ-ᴀᴄᴛɪᴠᴇ ʀᴇᴘʟʏ ʀᴀɪᴅ\n ➻ `!spam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ ɴᴏʀᴍᴀʟ ꜱᴘᴀᴍ\n ➻ `!bigspam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ ʙɪɢ ꜱᴘᴀᴍ\n ➻ `!uspam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ ᴜɴʟɪᴍɪᴛᴇᴅ ꜱᴘᴀᴍ ᴜɴᴛɪʟ ʏᴏᴜ ʀᴇꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛꜱ!!\n ➻ `!queenspam` - ᴛʜɪꜱ ᴄᴍᴅ ᴜꜱᴇ ꜰᴏʀ Qᴜᴇᴇɴ ꜱᴘᴀᴍ!! \n ➻ `!queenspam` - ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴜꜱᴇ ꜰᴏʀ ʙʀɪᴛʜᴅᴀʏ ꜱᴘᴀᴍ!! \n\n"
 
 QUEEN_Help += f" !queenspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ \n\n"
 
-QUEEN_Help += f"© @TheQueenBots\n"
+QUEEN_Help += f"© @QUEEN_SPAM_BOT\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -36,7 +36,7 @@ async def help(event):
                                   caption=QUEEN_Help,
                                   buttons=[
         [
-        Button.url("°ᴄʜᴀɴɴᴇʟ°", "https://t.me/QUEEN_NETWORK")
+        Button.url("✨ᴄʜᴀɴɴᴇʟ✨", "https://t.me/QUEEN_NETWORK")
         ] 
         ]
         )
