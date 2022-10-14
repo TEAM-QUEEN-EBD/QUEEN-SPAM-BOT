@@ -15,7 +15,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-QUEEN_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/242e5d428b85aa113c268.jpg"
+QUEEN_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/09b3f55acf9ebff6fce2c.jpg"
   
 
 QUEEN = "✨ 𝗤𝘂𝗲𝗲𝗻 𝗦𝗽𝗮𝗺 𝗕𝗮𝗯𝘆 🥀\n\n"
