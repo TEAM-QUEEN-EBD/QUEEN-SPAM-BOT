@@ -1,2 +1,0 @@
-# QUEEN-SPAM-BOT
-QUEEN SPAM BOT ᴘᴏᴡᴇʀ ʙʏ #Qᴜᴇᴇɴ ɴᴇᴛᴡᴏʀᴋ @QUEEN_NETWORK Funder #MAFIA-RJ
