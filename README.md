@@ -82,17 +82,3 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-  <h3 align="center"> 
-
-     ─「 ᴄʀᴇᴅɪᴛs 」─ 
-
- </h3> 
-
-  : ➻ 
-
- 
- ➥ [ᴘʀᴏɢʀᴀᴍᴍᴇʀ] × <a href="https://github.com/MrProgrammer72" alt="KingAbishnoi"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>   
- ➥ [𝐈ɢɴɪᴛᴇᴛᴇᴄʜ𝐔ᴘᴅᴀᴛᴇs] × <a href="https://t.me/IgniteTechDivision" alt="Ignitetech"> <img src="https://img.shields.io/badge/HW-90302f?logo=github" /></a>   
-
-
- ━━━━━━━━━━━━━━━━━━━━
