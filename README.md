@@ -1,28 +1,15 @@
-━━━━━━━━━━━━━━━━━━━━ 
-
- **ᴋɪɴɢ ᴀʙɪsʜɴᴏɪ** 
-
-  
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-  
-
-  
-
- <h2 align="center"> 
+  <h2 align="center"> 
 
      ──「 𝗤𝗨𝗘𝗘𝗡 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 」── 
 
  </h2> 
 
-  
-
-  
-
- <h1 align="center"><b> QUEEN SPAM BOT ❗️</b></h1>  
+   <h1 align="center"><b> QUEEN SPAM BOT ❗️</b></h1>  
 
   
 
@@ -49,7 +36,7 @@
 
   <p align="center"> 
 
-   <img src="https://telegra.ph/file/03264297589e442200052.jpg"> 
+   <img src="https://te.legra.ph/file/06c23850094f1294366b8.jpg"> 
 
  </p> 
 
